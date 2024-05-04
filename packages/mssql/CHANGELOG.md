@@ -1,5 +1,16 @@
 # @sqlfx/mssql
 
+## 0.45.0
+
+### Minor Changes
+
+- [`06f00dc`](https://github.com/tim-smart/sqlfx/commit/06f00dc14b83d580a58597201004d84e502a56fc) Thanks [@jmatsushita](https://github.com/jmatsushita)! - Upgraded to effect@3.1.2 and @effect/schema@0.66.14
+
+### Patch Changes
+
+- Updated dependencies [[`06f00dc`](https://github.com/tim-smart/sqlfx/commit/06f00dc14b83d580a58597201004d84e502a56fc)]:
+  - @sqlfx/sql@0.47.0
+
 ## 0.44.1
 
 ### Patch Changes
