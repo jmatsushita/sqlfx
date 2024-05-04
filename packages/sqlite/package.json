@@ -1,5 +1,5 @@
 {
-  "name": "@sqlfx/sqlite",
+  "name": "@jmatsushita/sqlfx-sqlite",
   "version": "0.47.0",
   "description": "",
   "publishConfig": {

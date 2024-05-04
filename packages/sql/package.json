@@ -1,5 +1,5 @@
 {
-  "name": "@sqlfx/sql",
+  "name": "@jmatsushita/sqlfx-sql",
   "version": "0.47.0",
   "description": "",
   "publishConfig": {
