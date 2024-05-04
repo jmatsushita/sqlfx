@@ -1,5 +1,11 @@
 # @sqlfx/sql
 
+## 0.47.0
+
+### Minor Changes
+
+- [`06f00dc`](https://github.com/tim-smart/sqlfx/commit/06f00dc14b83d580a58597201004d84e502a56fc) Thanks [@jmatsushita](https://github.com/jmatsushita)! - Upgraded to effect@3.1.2 and @effect/schema@0.66.14
+
 ## 0.46.1
 
 ### Patch Changes
