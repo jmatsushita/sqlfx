@@ -4,12 +4,13 @@
   "description": "",
   "publishConfig": {
     "access": "public",
-    "directory": "dist"
+    "directory": "dist",
+    "registry": "https://npm.pkg.github.com"
   },
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tim-smart/sqlfx.git"
+    "url": "https://github.com/jmatsushita/sqlfx.git"
   },
   "author": "Tim Smart <hello@timsmart.co>",
   "license": "MIT",
